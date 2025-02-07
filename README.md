@@ -7,7 +7,7 @@ This project demonstrates how to use a simple neural network to compress ASCII a
 ## Features
 
 - Compress and reconstruct ASCII art images using a neural network.
--Lossy compression: the model reduces the size of 5% of the image while attempting to preserve the important visual structure. Additionally, by reducing the length of the floating point numbers and altering the json structure, it is possible to further reduce the size of the weights.
+- Lossy compression:  model reduces the size of 5% of the image while attempting to preserve the important visual structure. Additionally, by reducing the length of the floating point numbers and altering the json structure, it is possible to further reduce the size of     the weights.
 - Save and load model weights in JSON format for easy sharing and reusability.
 
 ---
